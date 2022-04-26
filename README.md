@@ -4,7 +4,7 @@
 
 Raspberry Pi Pico is a low-cost, high-performance microcontroller board with flexible digital interfaces. Key features include:
 
-- xref:rp2040.adoc#welcome-to-rp2040[RP2040] microcontroller chip designed by Raspberry Pi in the United Kingdom
+- [RP2040](xref:rp2040.adoc#welcome-to-rp2040) microcontroller chip designed by Raspberry Pi in the United Kingdom
 - Dual-core Arm Cortex M0+ processor, flexible clock running up to 133 MHz
 - 264KB of SRAM, and 2MB of on-board Flash memory
 - Castellated module allows soldering direct to carrier boards
